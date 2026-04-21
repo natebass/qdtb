@@ -1,0 +1,25 @@
+# Documentation
+doc/
+
+# Swap and Temp Files
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Neovim specifics
+.netrwhist
+sessions/
+shada/
+.lazy/
+
+# Lua
+luac.out
+.luarc.json
+
+# LSP and formatters
+.null-ls*
+
+# macOS
+.DS_Store
